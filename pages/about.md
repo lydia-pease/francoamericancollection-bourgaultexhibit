@@ -19,7 +19,7 @@ This collection is meant to highlight the artwork of Jean Julien Bourgault. He h
 
 These artifacts come from the Franco-American Collection at the University of Southern Maine Lewiston Campus.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)! 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
